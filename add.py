@@ -1,7 +1,7 @@
 '''
-A function that adds x to 3
+A function that adds a list of numbers together
 '''
 # define function
 def add(x):
-# arguments: x (number to add to 3)
-    return (x + 3)
+# arguments: x (list of numbers to be added)
+    return sum(x)
