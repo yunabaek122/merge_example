@@ -1,7 +1,7 @@
 '''
-A function that adds x to 4
+A function that adds x to y
 '''
 # define function
-def add(x):
-# arguments: x (number to add to 4)
-    return (x + 4)
+def add(x, y):
+# arguments: x, y (numbers to add)
+    return (x + y)
